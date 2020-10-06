@@ -10,7 +10,7 @@ Green impact is a mobile application that provides the user with a feed of infor
 GreenImpact was brainstormed by Spencer Comyns, Han Cheng and Adnan Alaliany. Adnan brought forward the idea of creating an app that could help people to pursue Green World. Han and Spencer fleshed out further features such as showing a map of activities in the local area and adding friends and ranking. The team formed in the first class. The inspiration behind GreenImpact is to help people pursue environmental friendly and change their behavior on a daily basis. 
 
 ## Project Goals ##
-	Develop a mobile application that will prompt users to become more environmentally friendly, and change their behavior on a daily basis. 
+Develop a mobile application that will prompt users to become more environmentally friendly, and change their behavior on a daily basis. 
 
 GreenImpact will use Kotlin to develop a mobile application for Android for people to use.   
 
